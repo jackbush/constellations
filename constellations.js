@@ -2,7 +2,7 @@ import p5 from "p5";
 
 const CONTAINER_ID = "jsSketchContainer";
 
-const backgroundColour = "#001030";
+const backgroundColour = "#171a26";
 const numberOfPoints = 120;
 const maxDiameter = 10;
 const minDiameter = 4;
